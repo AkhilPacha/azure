@@ -1,0 +1,9 @@
+{
+	"name": "datafactorypacha",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "962b6bbd-c65d-4e6d-847c-e251b58cb68e",
+		"tenantId": "8f73cb17-a2b8-4801-9f76-639041680c7d"
+	}
+}
